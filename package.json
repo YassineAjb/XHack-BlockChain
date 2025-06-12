@@ -1,0 +1,7 @@
+{
+  "scripts": {
+  "start": "node test.js",
+  "dev": "nodemon test.js"
+}
+
+}
